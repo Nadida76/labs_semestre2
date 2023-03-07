@@ -29,11 +29,7 @@ table {
 	width: 100%;
 }
 
-div.img{
-    margin: 0 auto;
-}
-img {
-	height: 30px;
-	width: auto;
-
+.add{
+    height: 60px;
+    width:auto;
 }
