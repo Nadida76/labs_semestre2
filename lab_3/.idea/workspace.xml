@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3403bc65-fad8-4861-a6e0-22c8d7baab64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/lab_3.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/templates/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/articles/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/bloglab3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/bloglab3/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/bloglab3/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/bloglab3/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/bloglab3/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/db_lab3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_3.1/bloglab3/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/articles/static/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/articles/static/blog.css" afterDir="false" />
-    </list>
+    <list default="true" id="3403bc65-fad8-4861-a6e0-22c8d7baab64" name="Changes" comment="Laboratory 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +50,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678166402759</updated>
     </task>
+    <task id="LOCAL-00001" summary="Laboratory 3">
+      <created>1678757282646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678757282647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Laboratory 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratory 3" />
   </component>
 </project>
