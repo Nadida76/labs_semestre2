@@ -1,0 +1,15 @@
+body {
+  /*background-image: linear-gradient(red, yellow);*/
+  background-color: #B0C4DE;
+  animation-name: example;
+  animation-duration: 4s;
+}
+@keyframes example {
+  from {background-color: #87CEEB;}
+  to {background-color: yellow;}
+}
+img {
+  border-radius: 8px;
+  width:300px;
+  height:300px;
+}
