@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3403bc65-fad8-4861-a6e0-22c8d7baab64" name="Changes" comment="Laboratory 3">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/img/frete.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/static/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/templates/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/articles/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/blog/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/db.sqbpro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3403bc65-fad8-4861-a6e0-22c8d7baab64" name="Changes" comment="Laboratory 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678757515930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Laboratory 3">
+      <created>1678782587506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678782587506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
