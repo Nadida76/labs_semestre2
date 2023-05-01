@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Django Public Blog - создать статью</title>
+    <link rel="stylesheet" href="{{ STATIC_URL }}static/css/article.css">
+</head>
+<body>
+    <div class="content">
+        <div class="header autho">
+            {% if request.user.is_authenticated %}
+                 <a class="link" href="http://127.0.0.1:8000/new">добавить новую статью</a>
+                 <a class="link" href="http://127.0.0.1:8000/newuser">добавить новую User</a><br><br>
+            {% else %}
+                <a class="link" href="http://127.0.0.1:8000/blog">Главная страница</a>
+            {% endif %}
+        </div>
+        <h1>Авторизация Страница</h1>
+        <form method="POST">
+            {% csrf_token %}
+            <label>Username</label><input type="text" name="username" placeholder="Ваша Username" value="{{ form.username }}"><br>
+            <label>Password</label><input type="password" name="password" placeholder="Название статьи" value="{{ form.password }}"><br>
+            <input type="submit" value="Войти"><br>
+        </form>
+        <p class="errors">{{ form.errors }}</p>
+    </div>
+</body>
+</html>

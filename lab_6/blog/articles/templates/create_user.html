@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Django Public Blog - создать статью</title>
+    <link rel="stylesheet" href="{{ STATIC_URL }}static/css/article.css">
+</head>
+<body>
+    <div class="content">
+        <h1>Регистрациа Страница</h1>
+        <form method="POST">
+            {% csrf_token %}
+            <label>Username</label><input type="text" name="username" placeholder="Ваша Username" value="{{ form.username }}"><br>
+            <label>Mail</label><input type="text" name="mail" placeholder="Ваша Электронной Почта" value="{{ form.mail }}"><br>
+            <label>Password</label><input type="password" name="password" placeholder="Название статьи" value="{{ form.password }}"><br>
+            <input type="submit" value="Сохранить"><br>
+        </form>
+        <p class="errors">{{ form.errors }}</p>
+    </div>
+</body>
+</html>
